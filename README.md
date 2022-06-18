@@ -1,4 +1,4 @@
 # hello-world
 fortest
-* a little weird
-* 
+* my name is bruce hung
+
